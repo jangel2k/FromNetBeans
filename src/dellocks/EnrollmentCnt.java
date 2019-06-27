@@ -1,10 +1,8 @@
 package dellocks;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
-import static java.lang.System.console;
 import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.DriverManager;
